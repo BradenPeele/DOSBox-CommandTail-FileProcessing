@@ -1,3 +1,5 @@
+testFile.TXT is an example of how an input file will need to be formatted
+
 -the program first gets the filename and a numeral from the command tail
 -input file and output file will be opened 
 -the input file contains a name followed by a numeral
